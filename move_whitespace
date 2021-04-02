@@ -1,0 +1,6 @@
+function move_space(){
+  var str = "   Come to discover  ";
+     alert(str.trim());
+return str.trim();
+}
+move_space();
